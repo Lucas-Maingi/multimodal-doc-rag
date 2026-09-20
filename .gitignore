@@ -19,6 +19,8 @@ data/uploads/
 *.png
 *.jpg
 *.jpeg
+*.csv
+*.xlsx
 
 # Environment variables & keys
 .env
