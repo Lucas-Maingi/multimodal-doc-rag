@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local ChromaDB Vector Database storage
+chroma_db/
+vector_db/
+
+# HuggingFace & Torch cache
+.cache/
+models/
+
+# Sample raw document uploads
+data/uploads/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Environment variables & keys
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+.vscode/
